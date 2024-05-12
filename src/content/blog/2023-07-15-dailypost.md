@@ -2,7 +2,7 @@
 title: Daily post
 author: Dot
 pubDatetime: 2024-01-02
-slug: 
+slug: Daily-post
 featured: false
 draft: false
 tags:
