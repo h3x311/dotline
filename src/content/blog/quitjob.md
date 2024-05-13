@@ -1,7 +1,7 @@
 ---
 title: 离职后
 author: sober
-pubDatetime: 2024-01-28
+pubDatetime: 2021-10-25
 slug: quitjob
 featured: false
 draft: false
