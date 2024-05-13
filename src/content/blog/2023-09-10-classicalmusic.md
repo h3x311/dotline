@@ -14,7 +14,7 @@ tags:
 description:
   "EXAMPLE POST: "
 ---
-
+## Table of contents
 # praface
 
 Music theory which is related to rules of music, maybe the best way to learn it is to analyze it in the music self.

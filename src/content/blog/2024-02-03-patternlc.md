@@ -12,7 +12,7 @@ description:
   "learn how to use LC patterns"
 ---
 
-
+## Table of contents
 # Preface
 
 I'll conclude some common patterns of LC, which includes the identifying symbol and important ideas of using.
