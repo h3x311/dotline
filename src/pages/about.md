@@ -7,17 +7,11 @@ title: "About"
 :)
 
 > Be without fear
-
 > in the face of your enemies.
-
 > Be brave and upright
-
 > that God may love thee.
-
 > Speak the truth
-
 > even if it leads to your death.
-
 > Safeguard the helpless.
 
 > holiness…is in right action.And courage on behalf of those who cannot defend themselves.
