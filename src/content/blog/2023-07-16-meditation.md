@@ -11,7 +11,7 @@ tags:
   - Meditation
 
 description:
-  "EXAMPLE POST: "
+  "There are many thoughts in the brain, so focus on your breath."
 ---
 ## Table of contents
 # preface

@@ -9,7 +9,7 @@ tags:
     - Daily
     - Life
 description:
-  "EXAMPLE POST: "
+  "一些record daily shot"
 ---
 
 

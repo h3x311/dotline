@@ -12,7 +12,7 @@ tags:
   - Piano
 
 description:
-  "EXAMPLE POST: "
+  "Music theory which is related to rules of music, maybe the best way to learn it is to analyze it in the music self. Another things is to know the important parts from music theory. I'll try to take piano for example and extend to their applications to explain some definitions."
 ---
 ## Table of contents
 # praface
