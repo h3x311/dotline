@@ -43,19 +43,18 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
       <p>
     If you’re overthinking, write.
-    If you’re underthinking, read.
-    千里之行，始于足下。
+    
+    
       </p>
       <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        If you’re underthinking, read.
       </p>
-      {
+      <p>Don't panic.</p>
+      <p>
+        千里之行，始于足下。
+      </p>
+      <p>多睡觉，睡好觉</p>
+      <!-- {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
@@ -63,7 +62,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             <Socials />
           </div>
         )
-      }
+      } -->
     </section>
 
     <Hr />
