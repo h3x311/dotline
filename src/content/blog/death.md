@@ -2,7 +2,7 @@
 title: Dead day
 author: sober
 pubDatetime: 2021-05-10
-slug: PSV-games
+slug: death
 featured: false
 draft: false
 tags:

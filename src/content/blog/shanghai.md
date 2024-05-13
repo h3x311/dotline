@@ -2,7 +2,7 @@
 title: Shanghai
 author: sober
 pubDatetime: 2021-06-12
-slug: PSV-games
+slug: shanghai-review
 featured: false
 draft: false
 tags:
