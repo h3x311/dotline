@@ -13,7 +13,7 @@ tags:
 description:
   "EXAMPLE POST: "
 ---
-
+## Table of contents
 # preface
 
 There are many thoughts in the brain, so focus on your breath.
