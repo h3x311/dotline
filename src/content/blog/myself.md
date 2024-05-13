@@ -3,7 +3,7 @@ title: Myself
 author: sober
 pubDatetime: 2022-08-23T00:42:20+08:00
 slug: myself
-featured: false
+featured: true
 draft: false
 tags:
   - write

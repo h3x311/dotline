@@ -3,7 +3,7 @@ title: How to work efficiently
 author: Sober
 pubDatetime: 2022-04-23T19:03:59+08:00
 slug: focus4work
-featured: false
+featured: true
 draft: false
 tags:
   - work
@@ -14,6 +14,15 @@ description:
 ---
 
 ## Table of contents
+
+> Focus is still a big and important topic caused the time is limited.
+I think the key of it is priority and time management.
+First, we need to list the tasks and try to break them down.
+Second, the expection of execution should not be too high.
+Third, don't focus for too long, like 1 hour, its hard to recover energy, pomodoro is a good choice.
+Next, watch some nature(Shinrin) photos or exciting videos to recharge.
+Finally, maybe we can use focusduration/realduration to measure the focus level.
+Anyway, try it.
 
 ## 个人状态
 

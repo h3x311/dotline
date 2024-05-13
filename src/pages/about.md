@@ -19,9 +19,7 @@ title: "About"
 
 > You were young, and you thought the wizard could do anything. So did we all, once. But the truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do... I was too impatient. I wanted the sun and the cities and the far lands, too much to pay for a little power, a shadow, and a darkness.
 
-你还年幼,以为法师无所不能。我以前也这么认为。我们每个人都曾经有那种想法。
-但事实是,一个人其正的力量若增强,知识若拓宽,他得以依循的路途反而变窄。到最后他什麼也不挑栋,只能全心人事必须做的事。
-以前我太心急,现在才会没有多余的时间。我把心中盼望的阳光、城市、遥远的异域,都拿去换一丁点カ量、一个黑影、还有黑暗了。
+> 你还年幼,以为法师无所不能。我以前也这么认为。我们每个人都曾经有那种想法。但事实是,一个人其正的力量若增强,知识若拓宽,他得以依循的路途反而变窄。到最后他什麼也不挑栋,只能全心人事必须做的事。以前我太心急,现在才会没有多余的时间。我把心中盼望的阳光、城市、遥远的异域,都拿去换一丁点カ量、一个黑影、还有黑暗了。
 
 > Be without fear
 > in the face of your enemies.

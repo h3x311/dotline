@@ -1,9 +1,9 @@
 ---
-title: 论少发动态的必要性
+title: 论少用社交网络的必要性
 author: sober
 pubDatetime: 2022-01-25 22:10:48
 slug: nosns
-featured: false
+featured: true
 draft: false
 tags:
   - disc
