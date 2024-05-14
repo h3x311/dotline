@@ -13,7 +13,20 @@ description:
 ---
 
 
-# 选择双拼方案
+# Tools on diff platform
+
+## Non-mobie
+
+- https://github.com/Mark24Code/rime-auto-deploy
+  - Use this to install & deploy
+- then you can change config(like schema order) under `Rime` dir
+![xK2BnBtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/xK2BnBtest.png)
+- By default, switch order by F4
+- Change color schema under `rime-auto-deploy`
+
+## Ios
+
+- Hamster
 
 # 小鹤双拼
 
