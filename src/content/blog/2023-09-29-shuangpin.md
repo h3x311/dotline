@@ -24,7 +24,7 @@ description:
 - By default, switch order by F4
 - Change color schema under `rime-auto-deploy`
 
-## Ios
+## IOS
 
 - Hamster
 
