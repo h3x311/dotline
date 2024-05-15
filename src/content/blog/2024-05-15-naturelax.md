@@ -25,4 +25,5 @@ description:
 - [Nature](https://www.reddit.com/r/natureporn/)
 - [Earth](https://www.reddit.com/r/EarthPorn/)
 - [Animals](https://www.reddit.com/r/AnimalPorn/)
+- [Collection](https://www.reddit.com/r/sfwpornnetwork/wiki/network/)
 - [Awww](www.reddit.com/r/aww)
