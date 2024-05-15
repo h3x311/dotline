@@ -14,7 +14,11 @@ description:
 ---
 
 > [Relax](https://scienceofselfhelp.org/articles-1/2020/5/1/experiments-in-extending-deep-work)
+> Take longer breaks. After 4 sets I’ll take a longer break. I try to get out into the sun and incorporate some minimum amount of movement. If you have time, walk around the block. If you can, walk in a forested area.
+> set 4, 10 minute intervals with 1 minute breaks. I make sure to have the ticking going in the background because it’s an added reminder of the passage of time.
+
 - [Sky](https://www.reddit.com/r/SkyPorn/)
 - [Nature](https://www.reddit.com/r/natureporn/)
 - [Earth](https://www.reddit.com/r/EarthPorn/)
 - [Animals](https://www.reddit.com/r/AnimalPorn/)
+- [Awww](www.reddit.com/r/aww)
