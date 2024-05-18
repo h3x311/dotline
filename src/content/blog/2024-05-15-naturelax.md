@@ -14,7 +14,8 @@ tags:
 description:
   "Some chilling"
 ---
-
+## Table of contents
+# Photos
 > [Relax](https://scienceofselfhelp.org/articles-1/2020/5/1/experiments-in-extending-deep-work)
 
 > Take longer breaks. After 4 sets I’ll take a longer break. I try to get out into the sun and incorporate some minimum amount of movement. If you have time, walk around the block. If you can, walk in a forested area.
@@ -27,3 +28,6 @@ description:
 - [Animals](https://www.reddit.com/r/AnimalPorn/)
 - [Collection](https://www.reddit.com/r/sfwpornnetwork/wiki/network/)
 - [Awww](www.reddit.com/r/aww)
+
+# Songs
+- [Pretties](https://www.reddit.com/r/AskReddit/comments/12viv4v/what_is_the_prettiest_song_you_ever_heard_in_your/)
