@@ -19,8 +19,9 @@ I want to structure the process of log money expense/income/debts. Beancount has
 
 # Setup
 
-```pip3 install beancount 
-    pip3 install fava
+```
+pip3 install beancount 
+pip3 install fava
 ```
 
 # start your log
