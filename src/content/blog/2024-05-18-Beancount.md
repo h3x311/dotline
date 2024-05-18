@@ -8,9 +8,10 @@ draft: false
 tags:
   - beancount
   - money
+  - tool
 
 description:
-  "Learn Beancount"
+  "Learn Beancount to track money"
 ---
 
 ## Table of contents
@@ -57,3 +58,7 @@ bean-web xx.beancount
 
 # conclusion
 I hope I could explore more, like use bot or other plugin(smart import) to log this in a long term.
+
+
+# Reference
+- [BTV](https://byvoid.com/zht/blog/beancount-bookkeeping-1/#%e4%bd%bf%e7%94%a8beancount)
