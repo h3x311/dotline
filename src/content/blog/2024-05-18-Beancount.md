@@ -13,6 +13,7 @@ description:
   "Learn Beancount"
 ---
 
+## Table of contents
 # Preface
 
 I want to structure the process of log money expense/income/debts. Beancount has good reputation of it.
