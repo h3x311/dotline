@@ -17,7 +17,7 @@ description:
 ## Table of contents
 # Preface
 
-I want to structure the process of log money expense/income/debts. Beancount has good reputation of it.
+I want to structure the process of logging money expense/income/debts. Beancount has good reputation of it.
 
 # Setup
 
@@ -26,7 +26,7 @@ pip3 install beancount
 pip3 install fava
 ```
 
-# start your log
+# Start your log
 ```
 2024-05-18 open Assets:Card
 2024-05-18 open Assets:Alipay
@@ -50,13 +50,13 @@ pip3 install fava
     Income:Salary                  -3333.00 CNY
 ```
 
-# web visualize your graph
+# Web visualize your graph
 
 ```
 bean-web xx.beancount
 ```
 
-# conclusion
+# Conclusion
 I hope I could explore more, like use bot or other plugin(smart import) to log this in a long term.
 
 
