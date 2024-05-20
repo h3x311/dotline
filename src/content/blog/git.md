@@ -36,7 +36,7 @@ Port 443
 IdentityFile /Users/sober/.ssh/yourkeyname
 IdentitiesOnly yes
 ```
-Host 名称随意
+
 # Change local repo's current user
 ## 1st method
 ``` 
