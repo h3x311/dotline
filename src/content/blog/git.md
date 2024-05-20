@@ -26,7 +26,7 @@ ssh-keygen -t rsa -C "user2@email.com"
 ssh-agent bash
 ssh-add ~/.ssh/keyname
 ```
-## 3. 修改ssh的config
+## 3. update file`~/.ssh/config`
 ```
 Host xxwhatever
 HostName ssh.github.com
@@ -37,7 +37,7 @@ IdentitiesOnly yes
 ```
 Host 名称随意
 # Change local repo's current user
-## 1st method 
+## 1st method
 ``` 
 git config --local user.name "xxx"
 git config --local user.email "xxx"
@@ -46,7 +46,7 @@ git config --local user.email "xxx"
 Another method is to update file`.git\config`
 ![KOjbCltest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/KOjbCltest.png)
 
-# How to add remote repo with non-global git user
+# Add remote repo with non-global git user
 ```
 git remote/clone add origin git@xxwhatever:repoUrl
 ```
