@@ -15,17 +15,18 @@ description:
 ## Table of contents
 
 # How to add new user's ssh key
-## 1. Generate
+## 1. Generate new ssh key
 ```
 ssh-keygen -t rsa -C "user2@email.com"
 ```
 名字加后缀，不要覆盖之前的key
 
-## 2. 添加key到ssh agent中
+## 2. Add pub key into github ssh
+<!-- ## 2. 添加key到ssh agent中
 ```
 ssh-agent bash
 ssh-add ~/.ssh/keyname
-```
+``` -->
 ## 3. update file`~/.ssh/config`
 ```
 Host xxwhatever
