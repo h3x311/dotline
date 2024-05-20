@@ -1,5 +1,5 @@
 ---
-title: Git多用户
+title: Git Multiple user setup
 author: sober
 pubDatetime: 2022-02-22T14:26:09+08:00
 slug: gitmultisuer
@@ -36,7 +36,7 @@ IdentityFile /Users/sober/.ssh/yourkeyname
 IdentitiesOnly yes
 ```
 Host 名称随意
-# change local repo's current user
+# Change local repo's current user
 ## 1st method 
 ``` 
 git config --local user.name "xxx"
