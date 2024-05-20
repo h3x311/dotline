@@ -12,7 +12,30 @@ tags:
 description:
   "Learn git multi user setup"
 ---
+## Table of contents
 
+# How to add new user's ssh key
+## 1. Generate
+```
+ssh-keygen -t rsa -C "user2@email.com"
+```
+名字加后缀，不要覆盖之前的key
+
+## 2. 添加key到ssh agent中
+```
+ssh-agent bash
+ssh-add ~/.ssh/keyname
+```
+## 3. 修改ssh的config
+```
+Host xxwhatever
+HostName ssh.github.com
+User git
+Port 443
+IdentityFile /Users/sober/.ssh/yourkeyname
+IdentitiesOnly yes
+```
+Host 名称随意
 # change local repo's current user
 ## 1st method 
 ``` 
@@ -22,33 +45,9 @@ git config --local user.email "xxx"
 ## 2nd method
 Another method is to update file`.git\config`
 ![KOjbCltest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/KOjbCltest.png)
-前提是添加多用户ssh key到～/.ssh/config
-# How to add new user's ssh key
-## 1. Generate
- ```
- ssh-keygen -t rsa -C "user2@email.com"
-  ```
-名字加后缀，不要覆盖之前的key
 
-## 2. 添加key到ssh agent中
- ```
- ssh-agent bash
- ssh-add ~/.ssh/keyname
-  ```
-## 3. 修改ssh的config
-``` 
-Host xxwhatever
-HostName ssh.github.com
-User git
-Port 443
-IdentityFile /Users/sober/.ssh/yourkeyname
-IdentitiesOnly yes
-   ``` 
-Host 名称随意
 # How to add remote repo with non-global git user
- ```
- git remote/clone add origin git@xxwhatever:repoUrl
-  ```
+```
+git remote/clone add origin git@xxwhatever:repoUrl
+```
 
-# 总结
-这样就可以愉快的使用多账号提交代码了！
