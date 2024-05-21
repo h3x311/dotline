@@ -31,6 +31,10 @@ description:
 
 # Songs
 - [Pretties](https://www.reddit.com/r/AskReddit/comments/12viv4v/what_is_the_prettiest_song_you_ever_heard_in_your/)
+- [UT-TobyFox](https://www.reddit.com/r/Undertale/comments/139mf8s/best_undertale_song/) #Bergetrucking
+- [Im not okay](https://www.reddit.com/r/AskReddit/comments/1cr0dh5/what_song_screams_im_not_doing_okay/)
+- [dark vibe](https://www.reddit.com/r/AskReddit/comments/iuqlru/what_song_has_an_upbeat_tune_but_dark_lyrics/)
+- [lyric hit u](https://www.reddit.com/r/AskReddit/comments/a2fbqi/what_is_a_song_lyric_that_really_hits_you_hard/)
 
 
 # ('-')( , )( , )( , )( , )( , )~
