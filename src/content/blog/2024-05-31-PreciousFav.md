@@ -47,7 +47,10 @@ description:
 
 附上祥瓊和苍猿视频：
 
-[![twelvekingdoms](https://res.cloudinary.com/marcomontalbano/image/upload/v1717172459/video_to_markdown/images/youtube--7dWEImIdSFg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7dWEImIdSFg "twelvekingdoms")
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="https://www.youtube.com/embed/7dWEImIdSFg" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
     <iframe src="//player.bilibili.com/player.html?bvid=BV1Zs411U7EV&amp;page=1&amp;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
 </div>
