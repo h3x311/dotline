@@ -23,8 +23,9 @@ description:
 - 24.5失眠成习惯，3rd，才看懂黑影的类比或喻体。第一部里格得年轻时的虚容和envy犹如黑影的内在体，一直滋养着黑影，直至召唤亡灵开始bome，欧吉安”你已经在学习了，这是你最匮乏的--安静“，力量需要合理利用，是早晚都会获得的，不断努力就可以，内心的平静能让自己绝对的不被力量所驱使，正确的使用力量很重要，假若把所有的精力都去换取那力量，那点点宁静都没了。至于铁落王座那，跟`ring of lord`的precious ring是类似的，对whatever what的欲望导致自己完全丧失内心，也就是上面解释的反面。
 
 最后，瑟鲁之歌：
-[![Earthsea](https://res.cloudinary.com/marcomontalbano/image/upload/v1717170963/video_to_markdown/images/youtube--PE26WG2eS3E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=PE26WG2eS3E&list=LL&index=2&pp=gAQBiAQB "Earthsea")
-
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="https://www.youtube.com/embed/PE26WG2eS3E" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Night In The Woods
 
@@ -37,7 +38,9 @@ description:
 像极了当时大学毕业后的neet生活
 
 粉丝做的视频Trail:
-[![NITW](https://res.cloudinary.com/marcomontalbano/image/upload/v1717171620/video_to_markdown/images/youtube--5r-gwpATLp4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5r-gwpATLp4&list=LL&index=1 "NITW")
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="https://www.youtube.com/embed/5r-gwpATLp4" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # 十二国记
 
@@ -46,11 +49,10 @@ description:
 里面解释了很多疑惑，比如虚无主导致的躺平，不受年龄控制去勇敢做正确事情并能为之付出代价的祥瓊,人生痛苦而一直诉诸于他人作为希望的x(我真的从不记名字)，还有老鼠“想要好成绩就要付出，想要赚钱就要劳动”的简单道理，印象深刻。
 
 附上祥瓊和苍猿视频：
-
-
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
     <iframe src="https://www.youtube.com/embed/7dWEImIdSFg" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
     <iframe src="//player.bilibili.com/player.html?bvid=BV1Zs411U7EV&amp;page=1&amp;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
 </div>
