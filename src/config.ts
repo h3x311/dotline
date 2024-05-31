@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Dot",
   desc: "TimeMachine backUped by Dot",
   title: "TimeMachine",
-  // ogImage: "tm.png",
+  ogImage: "tm.png",
   lightAndDarkMode: true,
   postPerPage: 7,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
