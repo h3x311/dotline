@@ -50,4 +50,9 @@ Maybe use pramp is a way to check it. quick fail quick fix.
 Read the [guide](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/6415b3fd6f3b018367901cdb), then practice, no other ways
 
 
-
+# New tech
+- GraphQL -- Restful API
+- PostgreSQL(most complex db) -- NoSQL
+- Nest -- Express
+- Zod -- Typescript
+- Sass -- Scss
