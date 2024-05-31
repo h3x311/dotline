@@ -6,7 +6,7 @@ slug: love
 featured: false
 draft: false
 tags:
-  - Life
+  - life
 
 description:
   "去年看Star Dust时，意识到Love is no condition."

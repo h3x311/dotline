@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
     - Daily
-    - Life
+    - life
 description:
   "一些record daily shot"
 ---

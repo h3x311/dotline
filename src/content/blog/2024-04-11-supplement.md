@@ -8,7 +8,7 @@ draft: false
 tags:
   - Health
   - Eat
-  - Life
+  - life
 
 description:
   "Some supplements I take."

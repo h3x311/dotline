@@ -6,7 +6,7 @@ slug: quitjob
 featured: false
 draft: false
 tags:
-  - Life
+  - life
   - work
 
 description:

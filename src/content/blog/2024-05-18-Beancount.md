@@ -34,7 +34,7 @@ pip3 install fava
 2024-05-18 open Liabilities:CreditCard
 2024-05-18 open Liabilities:Huabei
 2024-05-18 open Expenses:Food
-2024-05-18 open Expenses:LifeThings
+2024-05-18 open Expenses:lifeThings
 2024-05-18 open Expenses:VirtualThings
 2024-05-18 open Income:Salary
 2024-05-18 open Equity:Opening-Balances

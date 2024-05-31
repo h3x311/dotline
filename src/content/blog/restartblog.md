@@ -6,7 +6,7 @@ slug: restartblog
 featured: false
 draft: false
 tags:
-  - Life
+  - life
 
 description:
   "重新开始写博客。最近健身20天了快，上了快12节课。 "

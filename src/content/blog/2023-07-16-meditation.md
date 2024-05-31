@@ -6,7 +6,7 @@ slug: Meditation-what-why-how
 featured: false
 draft: false
 tags:
-  - Life
+  - life
   - Health
   - Meditation
 

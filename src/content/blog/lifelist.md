@@ -6,7 +6,7 @@ slug: lifelist
 featured: false
 draft: false
 tags:
-  - Life
+  - life
   - List
 
 description:
