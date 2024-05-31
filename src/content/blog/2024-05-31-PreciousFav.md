@@ -1,5 +1,5 @@
 ---
-title: Precious
+title: Precious ArtWorks
 author: dot
 pubDatetime: 2024-05-31
 slug: precious
@@ -12,9 +12,8 @@ tags:
 description:
   "Some collections"
 ---
-> I have been on a really self-hurt path when I just into adult, there are some works like a string hold me and guide me to find light and listen to my heart. Really tough, I'd like to organize them here with some videos or music.
-
 ## Table of contents
+> I have been on a really self-hurt path when I just into adult, there are some works like a string hold me and guide me to find light and listen to my heart. Really tough, I'd like to organize them here with some videos or music.
 
 # Tales from Earthsea
 
@@ -41,7 +40,8 @@ description:
 
 # 十二国记
 
-21年10月初看的，作为内心拧巴无比的人，里面的世界观对我之后做决策的速度做了重要的影响，之后每次犹豫不绝都会把`苍猿`那一段看了又看，问自己到底是不是自己想要的呢？
+21年10月初看的，作为内心拧巴无比的人，里面的世界观对我之后做决策的速度做了重要的影响，犹豫不绝时候都把`苍猿`看了又看，问自己到底是不是自己想要的呢？
+
 里面解释了很多疑惑，比如虚无主导致的躺平，不受年龄控制去勇敢做正确事情并能为之付出代价的祥瓊,人生痛苦而一直诉诸于他人作为希望的x(我真的从不记名字)，还有老鼠“想要好成绩就要付出，想要赚钱就要劳动”的简单道理，印象深刻。
 
 附上祥瓊和苍猿视频：
