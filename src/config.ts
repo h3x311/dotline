@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://dotline.life/", // replace this with your deployed domain
   author: "Dot",
-  desc: "A blog written by Dot.",
+  desc: "TimeMachine backUped by Dot",
   title: "TimeMachine",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "tm.png",
   lightAndDarkMode: true,
   postPerPage: 7,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
