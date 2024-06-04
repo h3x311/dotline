@@ -44,6 +44,8 @@ then practice with new instances.
 
 Review and validate level is a pain. Can't find suitable time to review those and validate it.
 Maybe use pramp is a way to check it. quick fail quick fix.
+- [Pattern conclusion](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/64865387eaaadd1855385848)
+
 
 # BQ
 
