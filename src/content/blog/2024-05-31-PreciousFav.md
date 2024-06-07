@@ -2,7 +2,7 @@
 title: Precious ArtWorks
 author: dot
 pubDatetime: 2024-05-31
-slug: precious
+slug: precious-artwork
 featured: false
 draft: false
 tags:

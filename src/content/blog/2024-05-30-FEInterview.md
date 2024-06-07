@@ -2,8 +2,8 @@
 title: FE Interview
 author: dot
 pubDatetime: 2024-05-30
-slug: howtoprepare
-featured: false
+slug: Fe-Interview
+featured: true
 draft: false
 tags:
   - FE
