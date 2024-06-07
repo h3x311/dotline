@@ -3,6 +3,7 @@ import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
+import remarkExternalLinks from "remark-external-links"; // 导入插件
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 
@@ -25,6 +26,7 @@ export default defineConfig({
           test: "Table of contents",
         },
       ],
+      [remarkExternalLinks, { target: "_blank", rel: ["noopener", "noreferrer"] }], // 添加插件配置
     ],
     shikiConfig: {
       theme: "one-dark-pro",
