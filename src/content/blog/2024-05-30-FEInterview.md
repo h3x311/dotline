@@ -49,8 +49,9 @@ Maybe use pramp is a way to check it. quick fail quick fix.
 - firstly, introduction
 - discuss with question
 - and solution
+  - 从最直观的来分析，逐渐到最优解
 - abstract solution into small func
-- use suitable ds
+- use suitable ds(如何选择？为什么选择？)
   - ![baKzpHtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/baKzpHtest.png)
 
 
