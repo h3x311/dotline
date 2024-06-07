@@ -45,6 +45,13 @@ then practice with new instances.
 Review and validate level is a pain. Can't find suitable time to review those and validate it.
 Maybe use pramp is a way to check it. quick fail quick fix.
 - [Pattern conclusion](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/64865387eaaadd1855385848)
+## NOTE
+- firstly, introduction
+- discuss with question
+- and solution
+- abstract solution into small func
+- use suitable ds
+  - ![baKzpHtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/baKzpHtest.png)
 
 
 # BQ
