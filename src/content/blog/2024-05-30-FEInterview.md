@@ -12,9 +12,8 @@ tags:
 description:
   "Prepare efficiently in FE"
 ---
-# Preface
 
-Including FE, Algs, SD, BQ
+## Table of contents
 
 # Plan
 
