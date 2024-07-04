@@ -65,3 +65,12 @@ description:
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
     <iframe src="https://www.youtube.com/embed/QTufKMj4Z1w" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+# NANA
+18年左右看的，意识到人必须坚定的相信自己想要的并且想要得到的，去努力生活，才能创造出未来。
+
+- [reddit review NANA](https://www.reddit.com/r/NanaAnime/comments/1b8azxx/what_life_lessons_have_the_nana_animemanga_taught/)
+附上黒い淚:
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="https://www.youtube.com/embed/2EoaFOTh9K8" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

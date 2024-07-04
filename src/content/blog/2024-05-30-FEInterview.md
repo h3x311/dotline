@@ -29,6 +29,10 @@ FE includes JS, React, CSS, HTML and some quiz.
 - And for the js basic, need to be concluded and read some YDKJS.
 - Read some quiz when I am not busy.
 
+1. CSS
+2. Quiz
+3. JS videos or books
+
 # SD
 
 SD is really hard to face it. caused it included so much details.
@@ -38,6 +42,8 @@ SD includes diff patterns.
 Still need to go through and highlight, conclude, need some times to prep.
 
 then practice with new instances.
+
+Update: I thought its not really hard to cover the basic.
 
 # Algs
 
@@ -52,7 +58,6 @@ Maybe use pramp is a way to check it. quick fail quick fix.
 - abstract solution into small func
 - use suitable ds(如何选择？为什么选择？)
   - ![baKzpHtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/baKzpHtest.png)
-
 
 # BQ
 
