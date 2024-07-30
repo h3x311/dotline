@@ -16,6 +16,7 @@ description:
 # Preface
 
 I'll conclude some common patterns of LC, which includes the identifying symbol and important ideas of using.
+Sometimes, I feel I could identify the pattern but can't work with the pattern.
 
 # slide window & two pointers
 
