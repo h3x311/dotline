@@ -19,7 +19,7 @@ description:
 
 I try to let myself know how to consume the limited life and be brave to lose nothing that I have, this could be a choice filter help me find new innovative things that I missed, and stay away with useless. Caused I know sometimes I will make non-reasonable decisions based on emotional, this could be a reminder.
 
-It involves learn, health, and work
+It involves learn, health, and work, tools
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
     <iframe src="https://yacine.ca/practice.mp4" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ really afraid of english interview caused I didnt practice it, spending some tim
 
 ## Interview
 
-Interview just another trick I need to practice, I need to do more mocks to build a feelings of it
+Interview just another trick I need to practice, I need to do more mocks to build a feeling of it
 
 ## Blog
 
