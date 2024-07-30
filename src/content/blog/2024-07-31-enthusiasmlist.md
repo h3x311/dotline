@@ -21,6 +21,10 @@ I try to let myself know how to consume the limited life and be brave to lose no
 
 It involves learn, health, and work
 
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="https://yacine.ca/practice.mp4" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Learn
 
 ## Category theory
@@ -39,7 +43,7 @@ Caused I think I will never recover back if no actions taken
 
 ## Speak english
 
-really afraid of english interview caused I didnt practice it, spending some energy on it make me feel comfortable
+really afraid of english interview caused I didnt practice it, spending some time on it make me feel comfortable
 
 ## Interview
 
