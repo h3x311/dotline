@@ -1,5 +1,5 @@
 ---
-title: enthusiasm list
+title: Enthusiasm list
 author: dot
 pubDatetime: 2024-07-30
 slug: enthusiasmlist
@@ -13,6 +13,7 @@ tags:
 description:
   "I try to let myself know how to consume the limited life and be brave to lose nothing that I have"
 ---
+## Table of contents
 
 # Preface
 
@@ -24,9 +25,46 @@ It involves learn, health, and work
 
 ## Category theory
 
-i wanna learn it caused I think I will enjoy it. I
+i wanna learn it caused I think I will enjoy it. I'll try to watch some videos when I do shit
+
+## Philosophy books
+
+I think I could find some dead idols from it? Just 10 mins one day
+
+# Practice
+
+## finger power
+
+Caused I think I will never recover back if no actions taken
+
+## Speak english
+
+really afraid of english interview caused I didnt practice it, spending some energy on it make me feel comfortable
+
+## Interview
+
+Interview just another trick I need to practice, I need to do more mocks to build a feelings of it
+
+## Blog
+
+Wanna write some tech blog, but need time to find how to write tech blog
+
+# Health
+
+## meditation
+
+I wanna use it to improve focus ability and be more relaxed
+
+## sleep
+
+Too tight to wanna fall asleep quickly make me tired, get rid of this circle
+
+## watch HuberMan videos
+
+Always could get some scientific proof of how to live better
 
 
-## Philosophy boos
+# Tools
+## Stay away with apple
 
-I think I could find some old idols from it?
+Really wanna get rid of this ecosystem
