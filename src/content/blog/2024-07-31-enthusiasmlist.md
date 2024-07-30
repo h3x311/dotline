@@ -3,7 +3,7 @@ title: Enthusiasm list
 author: dot
 pubDatetime: 2024-07-30
 slug: enthusiasmlist
-featured: false
+featured: true
 draft: false
 tags:
   - life
