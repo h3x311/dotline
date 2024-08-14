@@ -10,10 +10,14 @@ tags:
   - job
 
 description:
-  "Prepare efficiently in FE"
+  "I wanna a fxxking remote job"
 ---
 
 ## Table of contents
+
+# Job hunting
+
+active hunting, negotiation, trying
 
 # Plan
 

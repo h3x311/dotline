@@ -7,11 +7,11 @@ featured: true
 draft: false
 tags:
   - disc
+  - social
 
 description:
   "一场让人性退化的骗局"
 ---
-
 
 ## Table of contents
 # Update 240815
