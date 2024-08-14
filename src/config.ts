@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://dotline.life/", // replace this with your deployed domain
   author: "Dot",
-  desc: "TimeMachine backUped by Dot",
+  desc: "TimeMachine backuped by Dot",
   title: "TimeMachine",
   ogImage: "tm.png",
   lightAndDarkMode: true,
