@@ -190,7 +190,7 @@ Everything has an end but nobody wants to accept this.
 
 Why myself?
 - 相信自己，用力量去面对，用心去体会自己的心
-> 08/17/24 5:06AM
+> 08/17/24 5:06AM 
 
 
 
