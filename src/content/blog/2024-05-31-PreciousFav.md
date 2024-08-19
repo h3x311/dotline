@@ -29,7 +29,7 @@ description:
 
 # Night In The Woods
 
-22年开始玩的游戏，陪伴了我一个又一个孤寂不安的夜晚。
+21年开始玩的游戏，陪伴了我一个又一个孤寂不安的夜晚。
 
 - Difficult with parents, some fris talking about shit, stay away from college, live in little town.
 - one after one social freak events
