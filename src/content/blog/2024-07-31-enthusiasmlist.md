@@ -1,5 +1,5 @@
 ---
-title: Enthusiasm list
+title: Valuable Learn
 author: dot
 pubDatetime: 2024-07-30
 slug: enthusiasmlist
