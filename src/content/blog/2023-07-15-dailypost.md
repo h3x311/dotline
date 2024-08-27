@@ -12,6 +12,10 @@ description:
   "一些record daily shot"
 ---
 
+# 0828
+
+我对找工作感到绝望，大部分的付出都不来自热爱，而是觉得它有对应的物质价值，但如果并没有，宁愿把这些时间投资到自己喜欢的事情上，机会成本这东西真的随时代在改变。面试官没回复我的邮件 --> 我开始反思这整个事情 --> 上升到了自己物质上的焦虑 --> 进而上升到了内心的矛盾。我看了诸多网上的工作相关的抱怨，如果是时代和环境的焦虑，那不如做点其他自己喜欢的，把工作期望放低，时间拉长，毕竟工作本身又有什么价值，也许是我太把它当回事了。
+
 # 0729
 
 I try to record some thoughts publicly for me.
@@ -36,3 +40,4 @@ I felt exhausted after finish the exhilarate running which makes me a bit relaxe
 Tomorrow is my first day of holiday, I feel nothing about it. 
 Winter drives me crazy cause I can't run outdoors. The speed is very important for running, faster to exceed the time.
 Step by step. 
+
