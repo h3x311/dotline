@@ -50,15 +50,17 @@ const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
     modDatetime && modDatetime > pubDatetime ? modDatetime : pubDatetime
   );
 
-  const date = myDatetime.toLocaleDateString(LOCALE.langTag, {
+  const date = myDatetime.toLocaleDateString('zh-CN', {
     year: "numeric",
     month: "short",
     day: "numeric",
+    timeZone: 'Asia/Shanghai',
   });
 
-  const time = myDatetime.toLocaleTimeString(LOCALE.langTag, {
+  const time = myDatetime.toLocaleTimeString('zh-CN', {
     hour: "2-digit",
     minute: "2-digit",
+    timeZone: 'Asia/Shanghai',
   });
 
   return (
