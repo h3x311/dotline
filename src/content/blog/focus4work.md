@@ -1,28 +1,24 @@
 ---
 title: How to work efficiently
-author: Sober
+author: dot
 pubDatetime: 2022-04-23T19:03:59+08:00
-slug: focus4work
+modDatetime: 2024-09-04T03:57:46.000+08:00
+slug: efficient-work
 featured: true
 draft: false
 tags:
   - work
   - focus
+  - efficiency
 
 description:
   "如何才能拥有最好的状态，如何才能有更高的工作效率？"
 ---
-
 ## Table of contents
 
-> Focus is still a big and important topic caused the time is limited.
-I think the key of it is priority and time management.
-First, we need to list the tasks and try to break them down.
-Second, the expection of execution should not be too high.
-Third, don't focus for too long, like 1 hour, its hard to recover energy, pomodoro is a good choice.
-Next, watch some nature(Shinrin) photos or exciting videos to recharge.
-Finally, maybe we can use focusduration/realduration to measure the focus level.
-Anyway, try it.
+# preface
+
+什么是令人上瘾的？比如刷手机，改bug，开发项目的新功能，因为目标是很明确的.所以不会出现不知道自己在做什么的情况.但是如果生活中对今天没有计划的话，就无法专注，因为只是无意识的推动开始做了a.所以工作前设定可执行的计划很关键.一般来说工作的session是30min左右，所以目标的颗粒度可能需要分解到很小.
 
 ## 个人状态
 
@@ -55,3 +51,14 @@ Anyway, try it.
 4. 运动
 5. 玩游戏，转移注意力
 6. 研究吃什么
+
+---
+
+> Focus is still a big and important topic caused the time is limited.
+I think the key of it is priority and time management.
+First, we need to list the tasks and try to break them down.
+Second, the expection of execution should not be too high.
+Third, don't focus for too long, like 1 hour, its hard to recover energy, pomodoro is a good choice.
+Next, watch some nature(Shinrin) photos or exciting videos to recharge.
+Finally, maybe we can use focusduration/realduration to measure the focus level.
+Anyway, try it.
