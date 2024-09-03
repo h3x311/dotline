@@ -1,5 +1,5 @@
 ---
-title: How to find a remote job
+title: How to find a remote job?
 author: dot
 pubDatetime: 2024-09-04T02:10:19.000+08:00
 modDatetime: 2024-09-04T02:10:19.000+08:00
@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - job
+  - remotejob
 
 description:
   "How to find a remote job"
