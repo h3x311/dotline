@@ -4,7 +4,7 @@ author: dot
 pubDatetime: 2022-04-23T19:03:59+08:00
 modDatetime: 2024-09-04T03:57:46.000+08:00
 slug: efficient-work
-featured: true
+featured: false
 draft: false
 tags:
   - work
@@ -12,7 +12,7 @@ tags:
   - efficiency
 
 description:
-  "如何才能拥有最好的状态，如何才能有更高的工作效率？"
+  "How to work efficiently"
 ---
 ## Table of contents
 
