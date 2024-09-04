@@ -4,7 +4,7 @@ author: dot
 pubDatetime: 2022-04-23T19:03:59+08:00
 modDatetime: 2024-09-05T02:21:08.000+08:00
 slug: efficient-work
-featured: false
+featured: true
 draft: false
 tags:
   - work

@@ -4,7 +4,7 @@ author: sober
 pubDatetime: 2022-08-23T00:42:20+08:00
 modDatetime: 2024-08-18T22:58:59.000+08:00
 slug: myself
-featured: true
+featured: false
 draft: false
 tags:
   - write
