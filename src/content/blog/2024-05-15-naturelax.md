@@ -16,12 +16,6 @@ description:
 ---
 ## Table of contents
 # Photos
-> [Relax](https://scienceofselfhelp.org/articles-1/2020/5/1/experiments-in-extending-deep-work)
-
-> Take longer breaks. After 4 sets I’ll take a longer break. I try to get out into the sun and incorporate some minimum amount of movement. If you have time, walk around the block. If you can, walk in a forested area.
-
-> set 4, 10 minute intervals with 1 minute breaks. I make sure to have the ticking going in the background because it’s an added reminder of the passage of time.
-
 - [Sky](https://www.reddit.com/r/SkyPorn/)
 - [Nature](https://www.reddit.com/r/natureporn/)
 - [Earth](https://www.reddit.com/r/EarthPorn/)
@@ -30,6 +24,7 @@ description:
 - [Awww](https://www.reddit.com/r/aww)
 
 # Songs
+- [Evil Morty](https://www.youtube.com/watch?v=mb-XCaA2HZs&list=RDmb-XCaA2HZs&start_radio=1)
 - [Pretties](https://www.reddit.com/r/AskReddit/comments/12viv4v/what_is_the_prettiest_song_you_ever_heard_in_your/)
 - [UT-TobyFox](https://www.reddit.com/r/Undertale/comments/139mf8s/best_undertale_song/) #Bergetrucking
 - [Im not okay](https://www.reddit.com/r/AskReddit/comments/1cr0dh5/what_song_screams_im_not_doing_okay/)
@@ -39,3 +34,8 @@ description:
 
 # Others
 - [healthMEME](https://www.reddit.com/r/wholesomememes/top/?t=all)
+- [scienceofselfhelp](https://scienceofselfhelp.org/articles-1/2020/5/1/experiments-in-extending-deep-work)
+
+> Take longer breaks. After 4 sets I’ll take a longer break. I try to get out into the sun and incorporate some minimum amount of movement. If you have time, walk around the block. If you can, walk in a forested area.
+
+> set 4, 10 minute intervals with 1 minute breaks. I make sure to have the ticking going in the background because it’s an added reminder of the passage of time.
