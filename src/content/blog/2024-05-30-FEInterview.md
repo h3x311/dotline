@@ -1,7 +1,8 @@
 ---
-title: FE Interview
+title: Job finding Process(WIP)
 author: dot
 pubDatetime: 2024-05-30
+modDatetime: 2024-09-05T02:44:07.000+08:00
 slug: Fe-Interview
 featured: true
 draft: false
@@ -12,57 +13,30 @@ tags:
 description:
   "I wanna a fxxking remote job"
 ---
-
 ## Table of contents
+# Application
 
-# Job hunting
+- Make a Overall Lists of all job finding platform
+  - Even company's lists
+- Linkedin's reply
+- Email's reply
+- A general Cover Letter
 
-active hunting, negotiation, trying
+# BQ
 
-# Plan
-
-FE is most important one, SD is very tricky one which means I need more time to prepare in the end, Algs go through with whole process, its important to cover all important patterns, BQ I never prepare of this part
-
-## Update
-I thought most hard part is still tech test, no matter FE or LC, try more mocks!
-
-# Mock Interview
-could be a good tool to check FE/Algs/BQ
-
-## updates
-I'll do more mocks until I feel comfortable with everything.
+- [guide](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/6415b3fd6f3b018367901cdb)
+- [vides](https://www.youtube.com/@TheCompaniesExpert/videos)
 
 # FE
 
-FE includes JS, React, CSS, HTML and some quiz.
-- Enhance HTML CSS React is easy but important.
-- And for the js basic, need to be concluded and read some YDKJS.
-- Read some quiz when I am not busy.
+It includes: JS and UI(React, JS related like DOM)
 
-1. CSS
-2. Quiz
-3. JS videos or books
-
-## Updates
-
-Recently, I quickly reviewed many quiz and GFE QA for zoom interview, I feel fullfilled, but still long way to go.
-
-# SD
-
-SD is really hard to face it. caused it included so much details.
-
-SD includes diff patterns.
-
-Still need to go through and highlight, conclude, need some times to prep.
-
-then practice with new instances.
-
-Update: I thought its not really hard to cover the basic.
+- Make a list of all important topics
+- Practice QAs with topics and make notes
+- Be careful with pronunciation and expressions(use relingo)
 
 # Algs
 
-Review and validate level is a pain. Can't find suitable time to review those and validate it.
-Maybe use pramp is a way to check it. quick fail quick fix.
 - [Pattern conclusion](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/64865387eaaadd1855385848)
 ## NOTE
 - firstly, introduction
@@ -73,20 +47,29 @@ Maybe use pramp is a way to check it. quick fail quick fix.
 - use suitable ds(如何选择？为什么选择？)
   - ![baKzpHtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/baKzpHtest.png)
 
-## Update
 
-I thought Algs need mock and test until you feel comfortable with the real one. more than practice.
+# SD
 
-# BQ
+SD includes diff patterns.
 
-Read the [guide](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/6415b3fd6f3b018367901cdb), then practice, no other ways
+Still need to go through and highlight, conclude, need some times to prep.
 
-- I am actually feel free about BQ
+then practice with new instances.
+
+
+# FOSS
+
+> Contributing to FOSS is a way to extend career with outer networking.
+- Collect a lists of FOSS
+- Find 2-3 FOSS to contribute
+- check their issues
 
 
 # New tech
 - GraphQL -- Restful API
-- PostgreSQL(most complex db) -- NoSQL
+- PostgreSQL -- NoSQL
 - Nest -- Express
 - Zod -- Typescript
 - Sass -- Scss
+- zustand -- redux
+- shadcn -- react ui
