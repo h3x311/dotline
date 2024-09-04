@@ -1,7 +1,7 @@
 ---
 title: Network Basics
 author: Dot
-pubDatetime: 2023-10-30
+pubDatetime: 2023-09-10
 slug: network-basics
 featured: false
 draft: false

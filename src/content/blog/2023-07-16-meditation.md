@@ -1,7 +1,7 @@
 ---
 title: Meditation
 author: Dot
-pubDatetime: 2023-10-30
+pubDatetime: 2023-07-16
 slug: Meditation-what-why-how
 featured: false
 draft: false
