@@ -3,7 +3,7 @@ title: Precious ArtWorks
 author: dot
 pubDatetime: 2024-05-31
 slug: precious-artwork
-featured: true
+featured: false
 draft: false
 tags:
   - creative

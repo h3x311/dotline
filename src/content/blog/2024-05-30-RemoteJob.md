@@ -3,8 +3,8 @@ title: Job finding Process(WIP)
 author: dot
 pubDatetime: 2024-05-30
 modDatetime: 2024-09-05T02:44:07.000+08:00
-slug: Fe-Interview
-featured: true
+slug: RemoteJob
+featured: false
 draft: false
 tags:
   - FE

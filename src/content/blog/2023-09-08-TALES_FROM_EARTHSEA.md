@@ -3,7 +3,7 @@ title: TALES FROM EARTHSEA
 author: Dot
 pubDatetime: 2023-10-30
 slug: A-Story-About-Black-Shadow
-featured: true
+featured: false
 draft: false
 tags:
   - Book
