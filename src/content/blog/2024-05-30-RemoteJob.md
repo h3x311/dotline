@@ -20,7 +20,7 @@ description:
   - Even company's lists
 - Linkedin's reply
 - Email's reply
-- A general Cover Letter
+- A general Cover Letter(template+JD)
 
 # BQ
 

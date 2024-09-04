@@ -37,5 +37,5 @@ description:
 - [lyric hit u](https://www.reddit.com/r/AskReddit/comments/a2fbqi/what_is_a_song_lyric_that_really_hits_you_hard/)
 
 
-# ('-')( , )( , )( , )( , )( , )~
+# Others
 - [healthMEME](https://www.reddit.com/r/wholesomememes/top/?t=all)
