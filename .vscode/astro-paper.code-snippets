@@ -17,6 +17,23 @@
     ],
     "description": "Adds the frontmatter block for the AstroPaper Blog post"
   },
+  "Thought":{
+    "scope": "markdown",
+    "prefix": "thought",
+    "body": [
+      "---",
+      "author: dot",
+      "pubDatetime: $CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}T$CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND.000+08:00",
+      "modDatetime: $CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}T$CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND.000+08:00",
+      "title: $4",
+      "draft: ${6|false,true|}",
+      "tags:",
+      "  - $7",
+      "content: $8",
+      "---",
+    ],
+    "description": "Adds the frontmatter block for the AstroPaper Blog post"
+  },
   "Blog Template": {
     "scope": "markdown",
     "prefix": "template",
