@@ -151,6 +151,7 @@ export interface Thought {
   content: string;
   pubDatetime: string;
   modDatetime: string;
+  draft: boolean;
   data: {
     content: string;
     pubDatetime: string;
