@@ -10,12 +10,14 @@ const { thought } = Astro.props;
 ---
 
 <article class="thought-card">
-  <p>{thought.content}</p>
-  <div class="date">
-    <Datetime
-      pubDatetime={thought.pubDatetime}
-      modDatetime={thought.modDatetime}
-    />
+  <div class="content">
+    <p>{thought.content}</p>
+    <div class="date">
+      <Datetime
+        pubDatetime={thought.pubDatetime}
+        modDatetime={thought.modDatetime}
+      />
+    </div>
   </div>
 </article>
 
@@ -25,7 +27,13 @@ const { thought } = Astro.props;
     padding: 1rem;
     border-radius: 8px;
   }
-
+  .content {
+    display: flex;
+    flex-direction: column;
+  }
+  .date {
+    align-self: flex-end;
+  }
   p {
     margin: 0 0 0.5rem 0;
   }
