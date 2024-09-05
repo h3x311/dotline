@@ -32,7 +32,7 @@ const thoughtList = sortedThoughts.map(({ data }) => ({
     pageTitle="Thoughts"
     pageDesc="Explore my latest thoughts and ideas ..."
   >
-    <ThoughtList client:load thoughtList={thoughtList} />
+    <ThoughtList thoughtList={thoughtList} />
   </Main>
   <Footer />
 </Layout>
