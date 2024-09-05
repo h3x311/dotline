@@ -4,10 +4,12 @@ import { generateOgImageForPost } from "@utils/generateOgImages";
 import { slugifyStr } from "@utils/slugify";
 
 export async function getStaticPaths() {
+  // @ts-ignore
   const posts = await getCollection("blog").then(p =>
+    // @ts-ignore
     p.filter(({ data }) => !data.draft && !data.ogImage)
   );
-
+  // @ts-ignore
   return posts.map(post => ({
     params: { slug: slugifyStr(post.data.title) },
     props: post,
