@@ -6,7 +6,7 @@ slug: flickgame
 featured: false
 draft: false
 tags:
-  - Game
+  - game
   - personal
 
 description: "如果有无限的能量不被负面情绪所困住就好了"

@@ -1,12 +1,12 @@
 ---
-title: Game I love
+title: Best Games In My Mind
 author: sober
 pubDatetime: 2021-12-29 22:18:35
-slug: Game-I-love
+slug: game-I-love
 featured: false
 draft: false
 tags:
-  - Game
+  - game
 
 description: "大多数游戏都不想打开第二次，以下不是。有些喜欢玩的目前没发现，希望有人推荐相同类型的游戏。以下可以玩很多遍。"
 ---
@@ -34,7 +34,7 @@ description: "大多数游戏都不想打开第二次，以下不是。有些喜
 11. hexcell infinite
     > Big Brain 扫雷，开关得满足积分，卡了
 
-## Indie Game
+## Indie game
 
 - [The Floor is Jelly](https://www.douban.com/game/26752681/)
 

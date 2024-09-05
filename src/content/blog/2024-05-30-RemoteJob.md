@@ -4,7 +4,7 @@ author: dot
 pubDatetime: 2024-05-30
 modDatetime: 2024-09-05T02:44:07.000+08:00
 slug: RemoteJob
-featured: false
+featured: true
 draft: false
 tags:
   - FE
