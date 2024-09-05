@@ -145,3 +145,15 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
 ];
+
+export interface Thought {
+  title: string;
+  content: string;
+  pubDatetime: string;
+  modDatetime: string;
+  data: {
+    content: string;
+    pubDatetime: string;
+    modDatetime: string;
+  };
+}

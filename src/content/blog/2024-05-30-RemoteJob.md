@@ -10,10 +10,11 @@ tags:
   - FE
   - job
 
-description:
-  "I wanna a fxxking remote job"
+description: "I wanna a fxxking remote job"
 ---
+
 ## Table of contents
+
 # Application
 
 - Make a Overall Lists of all job finding platform
@@ -38,7 +39,9 @@ It includes: JS and UI(React, JS related like DOM)
 # Algs
 
 - [Pattern conclusion](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/64865387eaaadd1855385848)
+
 ## NOTE
+
 - firstly, introduction
 - discuss with question
 - and solution
@@ -46,7 +49,6 @@ It includes: JS and UI(React, JS related like DOM)
 - abstract solution into small func
 - use suitable ds(如何选择？为什么选择？)
   - ![baKzpHtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/baKzpHtest.png)
-
 
 # SD
 
@@ -56,16 +58,16 @@ Still need to go through and highlight, conclude, need some times to prep.
 
 then practice with new instances.
 
-
 # FOSS
 
 > Contributing to FOSS is a way to extend career with outer networking.
+
 - Collect a lists of FOSS
 - Find 2-3 FOSS to contribute
 - check their issues
 
-
 # New tech
+
 - GraphQL -- Restful API
 - PostgreSQL -- NoSQL
 - Nest -- Express

@@ -10,8 +10,7 @@ tags:
   - Eat
   - life
 
-description:
-  "Some supplements I take."
+description: "Some supplements I take."
 ---
 
 - Fish Oil

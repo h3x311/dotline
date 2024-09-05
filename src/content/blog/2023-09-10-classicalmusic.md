@@ -11,10 +11,11 @@ tags:
   - Learn
   - Piano
 
-description:
-  "Music theory which is related to rules of music, maybe the best way to learn it is to analyze it in the music self. Another things is to know the important parts from music theory. I'll try to take piano for example and extend to their applications to explain some definitions."
+description: "Music theory which is related to rules of music, maybe the best way to learn it is to analyze it in the music self. Another things is to know the important parts from music theory. I'll try to take piano for example and extend to their applications to explain some definitions."
 ---
+
 ## Table of contents
+
 # praface
 
 Music theory which is related to rules of music, maybe the best way to learn it is to analyze it in the music self.
@@ -24,7 +25,7 @@ I'll try to take piano for example and extend to their applications to explain s
 
 # explain
 
-- pitch 
+- pitch
   - definition: scales and name(A->G)
   - application: distinguish a high/low note
 - notation
@@ -33,10 +34,8 @@ I'll try to take piano for example and extend to their applications to explain s
 - Octave
   - defi: the distance between two notes with the same name
 
-
 # reference
 
 - [listen to music](https://www.youtube.com/watch?v=5_yOVARO2Oc&list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
 - [suggestions resource](https://www.reddit.com/r/edmproduction/comments/39aq6m/blog_how_i_learned_music_theory_warning_long/)
 - [music theory](http://musictheory.pugetsound.edu/mt21c/BasicConceptsPracticeExercises.html)
-

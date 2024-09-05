@@ -10,9 +10,9 @@ tags:
   - imp
   - personal
 
-description:
-  "I try to let myself know how to consume the limited life and be brave to lose nothing that I have"
+description: "I try to let myself know how to consume the limited life and be brave to lose nothing that I have"
 ---
+
 ## Table of contents
 
 # Preface
@@ -67,8 +67,8 @@ Too tight to wanna fall asleep quickly make me tired, get rid of this circle
 
 Always could get some scientific proof of how to live better
 
-
 # Tools
+
 ## Stay away with apple
 
 Really wanna get rid of this ecosystem

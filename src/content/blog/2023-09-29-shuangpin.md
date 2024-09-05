@@ -8,9 +8,9 @@ draft: false
 tags:
   - tool
 
-description:
-  "learn how to use shuangpin "
+description: "learn how to use shuangpin "
 ---
+
 ## Table of contents
 
 # Tools on diff platform
@@ -20,10 +20,10 @@ description:
 - https://github.com/Mark24Code/rime-auto-deploy
   - Use this to install & deploy
 - then you can change config(like schema order) under `Rime` dir `default.yaml`
-![xK2BnBtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/xK2BnBtest.png)
+  ![xK2BnBtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/xK2BnBtest.png)
 - By default, switch order by F4
 - Change `color_schema` under `Rime` dir `squirrel.custom.yaml`
-![HHhu91test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/HHhu91test.png)
+  ![HHhu91test](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/HHhu91test.png)
 
 ## IOS
 

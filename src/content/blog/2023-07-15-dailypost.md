@@ -7,15 +7,15 @@ slug: Daily-post
 featured: false
 draft: false
 tags:
-    - Daily
-    - life
-description:
-  "一些record daily shot"
+  - Daily
+  - life
+description: "一些record daily shot"
 ---
 
 # 09-05
 
 找工作的悖论：
+
 - 没有面试的时候，感觉自己的portfolio或简历需要polish
 - 有面试的时候，感觉自己的面试的准备差太多，总感觉general的准备远远不够，需要列list，颗粒化更小的开始
 
@@ -43,8 +43,7 @@ I try to record some thoughts publicly for me.
 
 # 12-13-2023
 
-I felt exhausted after finish the exhilarate running which makes me a bit relaxed from the frustrating things. 
-Tomorrow is my first day of holiday, I feel nothing about it. 
+I felt exhausted after finish the exhilarate running which makes me a bit relaxed from the frustrating things.
+Tomorrow is my first day of holiday, I feel nothing about it.
 Winter drives me crazy cause I can't run outdoors. The speed is very important for running, faster to exceed the time.
-Step by step. 
-
+Step by step.

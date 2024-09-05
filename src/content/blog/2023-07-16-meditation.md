@@ -10,10 +10,11 @@ tags:
   - Health
   - Meditation
 
-description:
-  "There are many thoughts in the brain, so focus on your breath."
+description: "There are many thoughts in the brain, so focus on your breath."
 ---
+
 ## Table of contents
+
 # preface
 
 There are many thoughts in the brain, so focus on your breath.
@@ -22,7 +23,7 @@ There are many thoughts in the brain, so focus on your breath.
 
 # conclusion
 
-``` 当然，我根据你的描述来概括一下：
+```当然，我根据你的描述来概括一下：
 
 1. **冥想面临的问题**：你提到的主要问题包括思考杂乱、对外界事物产生拒绝态度、对过去和未来产生不必要的焦虑。这些都是冥想初期常见的困扰。
 
@@ -49,7 +50,6 @@ There are many thoughts in the brain, so focus on your breath.
 
 ```
 
-
 # 冥想是什么
 
 人是很容易被外界的变化吸引注意力的，比如一个车从面前飞过，很可能会带来烦躁恐慌的情绪，冥想可以帮我来认识到这个情绪的产生，并且不被它所影响。
@@ -70,7 +70,3 @@ There are many thoughts in the brain, so focus on your breath.
 # 冥想的意义
 
 冥想去除了杂念(外界的影响)，得以将注意力收回，留在有意义价值的事情上.
-
-
-
-

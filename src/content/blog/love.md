@@ -8,10 +8,8 @@ draft: false
 tags:
   - life
 
-description:
-  "去年看Star Dust时，意识到Love is no condition."
+description: "去年看Star Dust时，意识到Love is no condition."
 ---
-
 
 去年看Star Dust时，意识到Love is no condition.
 
@@ -28,4 +26,5 @@ description:
 现在看来，爱是什么呢？爱是学习来的，而不是自发来的。
 
 回忆到过去，曾经有人关心着自己，所谓感情联结，超越了时空。
+
 > 但我准备好爱别人了吗？

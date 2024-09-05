@@ -40,5 +40,3 @@ title: "About"
 > holiness…is in right action.And courage on behalf of those who cannot defend themselves.
 > And goodness…what God desires…is here(mind) and here(heart).
 > By what you decide to do every day, you will be a good man…or not.
-
-

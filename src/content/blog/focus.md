@@ -11,8 +11,7 @@ tags:
   - focus
   - efficiency
 
-description:
-  "How to work efficiently"
+description: "How to work efficiently"
 ---
 
 ## Table of contents
@@ -23,6 +22,7 @@ description:
 
 阻碍的话，一个是完美主义，另一个是无意识的走神.可以一步步改进问题，发现问题已经是第一步了。
 我的问题是:
+
 - 做完事情后很累，一般会躺在床上刷手机（甚至把刷手机当作工作完的奖励，实际上是对大脑的毒药），之后逐渐停不下来
   - 可能需要正确的放松，比如[NSDR](https://dotline.life/posts/nsdr/)
   - 或者拉伸之类的定期运动或散步，至少需要站起来走走
@@ -50,9 +50,9 @@ description:
 1. 减少电子(对sns say no)/物理(可控的封闭性)干扰
 2. 把目标收缩(太多符号，得放弃，不然什么都做不成)
    1. 抓难点开始，no细节
-4. 控制噪音(降噪耳机
-5. 按时break&rest(设置rest闹钟(ddl/屏幕休息
-   
+3. 控制噪音(降噪耳机
+4. 按时break&rest(设置rest闹钟(ddl/屏幕休息
+
 ## 环境改变
 
 > 陌生感，导致注意力放在环境的落差细节上，敏感于各种改变，以至于带来思维发散。
@@ -61,6 +61,7 @@ description:
 2. 设置一个无法恢复状态的调整时间结点，跨过那个结点，就换个环境。最多1h
 
 ## 如何放松？
+
 1. 远离所有电子设备
 2. 洗澡
 3. 散步
@@ -71,10 +72,10 @@ description:
 ---
 
 > Focus is still a big and important topic caused the time is limited.
-I think the key of it is priority and time management.
-First, we need to list the tasks and try to break them down.
-Second, the expection of execution should not be too high.
-Third, don't focus for too long, like 1 hour, its hard to recover energy, pomodoro is a good choice.
-Next, watch some nature(Shinrin) photos or exciting videos to recharge.
-Finally, maybe we can use focusduration/realduration to measure the focus level.
-Anyway, try it.
+> I think the key of it is priority and time management.
+> First, we need to list the tasks and try to break them down.
+> Second, the expection of execution should not be too high.
+> Third, don't focus for too long, like 1 hour, its hard to recover energy, pomodoro is a good choice.
+> Next, watch some nature(Shinrin) photos or exciting videos to recharge.
+> Finally, maybe we can use focusduration/realduration to measure the focus level.
+> Anyway, try it.

@@ -1,15 +1,14 @@
 ---
-title: 
+title:
 author: zerone0x
-pubDatetime: 
-slug: 
+pubDatetime:
+slug:
 featured: false
 draft: false
 tags:
-  - 
+  -
 
-description:
-  ""
+description: ""
 ---
 
 ## Table of contents

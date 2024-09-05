@@ -1,0 +1,31 @@
+---
+import ThoughtCard from "./ThoughtCard.astro";
+import type { Thought } from "../config";
+
+interface Props {
+  thoughtList: Thought[];
+}
+
+const { thoughtList } = Astro.props;
+---
+
+<ul>
+  {
+    thoughtList.map(thought => (
+      <li>
+        <ThoughtCard thought={thought} />
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 1rem;
+  }
+</style>

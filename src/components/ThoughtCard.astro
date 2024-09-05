@@ -1,0 +1,36 @@
+---
+import Datetime from "./Datetime";
+import type { Thought } from "../config";
+
+interface Props {
+  thought: Thought;
+}
+
+const { thought } = Astro.props;
+---
+
+<article class="thought-card">
+  <p>{thought.content}</p>
+  <div class="date">
+    <Datetime
+      pubDatetime={thought.pubDatetime}
+      modDatetime={thought.modDatetime}
+    />
+  </div>
+</article>
+
+<style>
+  .thought-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+
+  p {
+    margin: 0 0 0.5rem 0;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>

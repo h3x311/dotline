@@ -26,7 +26,6 @@ export default defineConfig({
           test: "Table of contents",
         },
       ],
-      [remarkExternalLinks, { target: "_blank", rel: ["noopener", "noreferrer"] }], // 添加插件配置
     ],
     shikiConfig: {
       theme: "one-dark-pro",
