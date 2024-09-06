@@ -2,7 +2,7 @@
 title: How to work efficiently
 author: dot
 pubDatetime: 2022-04-23T19:03:59+08:00
-modDatetime: 2024-09-05T02:21:08.000+08:00
+modDatetime: 2024-09-07T03:59:58.000+08:00
 slug: efficient-work
 featured: true
 draft: false
@@ -35,6 +35,10 @@ description: "How to work efficiently"
 - shit 信息让我焦虑和悲观，前段时间看网上的舆论让我有一种对未来的绝望和抑郁感，但仔细思考了下，个人的选择还有很多，如果除去单一维度的价值衡量。所以不该把时间浪费掉,也不应该恐惧这些unsure的纸老虎，更何况还有太多没有去尝试
 
 > 我觉得解决以上所有的问题是不现实的，但意识到问题所在，一点点改进，总会好一点。
+
+附 Chris Burrows 回复，以资鼓励：
+
+![fJi1Cmtest](https://cdn.jsdelivr.net/gh/h3x311/upic@main/LC3/2024/fJi1Cmtest.jpg)
 
 ## 个人状态
 
