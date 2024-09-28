@@ -18,7 +18,7 @@ description: "Learn git multi user setup"
 
 ## 1. Generate new ssh key
 
-```
+```bash
 ssh-keygen -t rsa -C "user2@email.com"
 ```
 
@@ -34,7 +34,7 @@ ssh-add ~/.ssh/keyname
 
 ## 3. update file`~/.ssh/config`
 
-```
+```bash
 Host xxwhatever
 HostName ssh.github.com
 User git
@@ -47,7 +47,7 @@ IdentitiesOnly yes
 
 ## 1st method
 
-```
+```bash
 git config --local user.name "xxx"
 git config --local user.email "xxx"
 ```
@@ -59,6 +59,6 @@ Another method is to update file`.git\config`
 
 # Add remote repo with non-global git user
 
-```
+```bash
 git remote/clone add origin git@xxwhatever:repoUrl
 ```
