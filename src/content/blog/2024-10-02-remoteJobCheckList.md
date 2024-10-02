@@ -10,8 +10,6 @@ tags:
 description: "some things need to be checked before accept a remote job"
 ---
 
-## Table of contents
-
 - contract
 - salary
   - when to pay
