@@ -3,7 +3,7 @@ author: dot
 pubDatetime: 2024-10-02T16:58:11.000+08:00
 modDatetime: 2024-10-02T16:58:11.000+08:00
 title: Remote Job Check List
-featured: false
+featured: true
 draft: false
 tags:
   - job
