@@ -3,7 +3,7 @@ author: dot
 pubDatetime: 2024-10-02T17:06:58.000+08:00
 modDatetime: 2024-10-02T17:06:58.000+08:00
 title: 关于工作引发的思考
-featured: false
+featured: true
 draft: false
 tags:
   - job
