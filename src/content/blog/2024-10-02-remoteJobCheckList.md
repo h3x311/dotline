@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - job
+  - remoteJob
 description: "some things need to be checked before accept a remote job"
 ---
 
