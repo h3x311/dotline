@@ -2,7 +2,7 @@
 title: Job finding Process(WIP)
 author: dot
 pubDatetime: 2024-05-30
-modDatetime: 2024-09-05T02:44:07.000+08:00
+modDatetime: 2024-10-02T16:58:11.000+08:00
 slug: RemoteJob
 featured: true
 draft: false
@@ -14,6 +14,16 @@ description: "I wanna a fxxking remote job"
 ---
 
 ## Table of contents
+
+# check list
+
+- contract
+- salary
+  - when to pay
+  - how to pay
+  - how much
+- work hours (how to count)
+- what should I do?
 
 # Application
 
